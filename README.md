@@ -5,21 +5,21 @@
 # Piiquante
 
 Project 6 for **OpenClassrooms Developer Web Formation**
-<br><br><br>
+<br>
 
 # Assignment
 Create a secure API.
 
-# Features
+<br>
 
+# Features
 > - Signup / Signin
 > - Like / Unlike
 > - Adding / Remove
 
-<br><br>
+<br>
 
 # Languages Used
 
 > NodeJS
 > MongoDB for database
-
