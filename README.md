@@ -5,6 +5,7 @@
 # Piiquante
 
 Project 6 for **OpenClassrooms Developer Web Formation**
+
 <br>
 
 # Assignment
